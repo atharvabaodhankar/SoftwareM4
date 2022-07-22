@@ -614,11 +614,12 @@ nav ul img {
 
 /* About Us  */
 .aboutus {
-    height: 1000px;
+    height: auto;
     display: flex;
     flex-direction: column;
     align-items: center;
     padding-top: 130px;
+    padding-bottom: 100px;
 }
 
 .aboutusinfo {
